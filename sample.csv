@@ -1,0 +1,10 @@
+a,read,c,d,normal
+b,write,d,e,write
+d,write,g,h,write
+c,write,e,f,normal
+r,read,g,f,normal
+f,write,h,y,write
+l,read,h,j,normal
+k,write,f,s,write
+l,write,h,j,normal
+h,write,n,j,normal
